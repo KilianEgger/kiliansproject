@@ -27,3 +27,10 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+#batch functions
+git+https://github.com/jjesteban/test
+git+https://github.com/Vorotori/whatapackage
+git+https://github.com/flameryx/sharing_package
+git+https://github.com/maulenthe/test_project
+git+https://github.com/dcrsn/example
